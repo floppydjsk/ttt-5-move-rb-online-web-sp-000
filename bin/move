@@ -6,4 +6,3 @@ require_relative "../lib/move.rb"
 puts "Hi, where would you like to place your X?"
 
 user_input = gets.strip
-
