@@ -7,4 +7,3 @@ def display_board(board)
 end
 display_board
 # code your input_to_index and move method here!
-user_input = " "
